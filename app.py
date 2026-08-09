@@ -120,7 +120,7 @@ for col, (num, title, desc) in zip([w1, w2, w3, w4], steps):
 
 st.markdown("")
 st.info(
-    "⚠️ **Disclaimer:** CardioSense AI adalah prototipe riset untuk tujuan edukasi & "
+    "**Disclaimer:** CardioSense AI adalah prototipe riset untuk tujuan edukasi & "
     "portofolio, bukan alat diagnosis medis. Hasil prediksi tidak menggantikan "
     "konsultasi dengan tenaga medis profesional.",
     icon="⚠️",
