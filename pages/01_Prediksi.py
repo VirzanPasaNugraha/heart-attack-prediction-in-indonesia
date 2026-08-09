@@ -193,7 +193,7 @@ if submitted:
             unsafe_allow_html=True,
         )
         st.markdown("")
-        st.page_link("pages/03_SHAP_Explainability.py", label="Lihat faktor pendorong hasil ini →", icon="🔍")
+        st.page_link("pages/03_Keterjelasan.py", label="Lihat faktor pendorong hasil ini →", icon="🔍")
 
     with r2:
         color = {"low": "#1F7A54", "medium": "#C98A1D", "high": "#C23B32"}[level]

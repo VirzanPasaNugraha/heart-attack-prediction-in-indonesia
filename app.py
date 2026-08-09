@@ -89,7 +89,7 @@ with col_b:
 
     st.markdown("")
     st.page_link("pages/01_Prediksi.py", label="**Coba Prediksi Sekarang →**", icon="🩺")
-    st.page_link("pages/03_SHAP_Explainability.py", label="Lihat Faktor Paling Berpengaruh →", icon="🔍")
+    st.page_link("pages/03_Keterjelasan.py", label="Lihat Faktor Paling Berpengaruh →", icon="🔍")
     st.page_link("pages/04_Keadilan.py", label="Audit Keadilan Model →", icon="⚖️")
     st.page_link("pages/05_Kalibrasi.py", label="Audit Kalibrasi Model →", icon="📏")
 
