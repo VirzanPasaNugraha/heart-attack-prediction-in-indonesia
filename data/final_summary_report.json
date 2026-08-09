@@ -1,0 +1,23 @@
+{
+    "Best_Model": "LightGBM",
+    "Best_Model_Balanced_Accuracy": 0.7218,
+    "Best_Model_Accuracy": 0.737,
+    "Best_Model_F1_Macro": 0.7237,
+    "Best_Model_MCC": 0.4481,
+    "Best_Model_ROC_AUC": 0.8166,
+    "Best_Model_Average_Precision": 0.7569,
+    "Total_Samples": 158355,
+    "Total_Features": 27,
+    "Total_Classes": 2,
+    "Class_Labels": [
+        "No_Heart_Attack",
+        "Heart_Attack"
+    ],
+    "Best_Parameters": {
+        "clf__learning_rate": 0.05,
+        "clf__max_depth": 10,
+        "clf__min_child_samples": 50,
+        "clf__n_estimators": 200,
+        "clf__num_leaves": 31
+    }
+}
